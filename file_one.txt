@@ -1,4 +1,7 @@
 This is the 1st line in the first file
+
+This is the first line in the 1st file
+
 this is the 5th line I'm adding
 
 This is the second line in the file

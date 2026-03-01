@@ -3,3 +3,4 @@ This is the first line in the first file
 This is the second line in the file
 
 Third line added
+4th line
